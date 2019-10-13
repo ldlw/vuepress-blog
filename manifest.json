@@ -1,0 +1,15 @@
+{
+  "name":"Liu Wei's Documents and blogs",
+  "short_name":"lw docs",
+  "desciption":"Liu Wei's Documents and blogs",
+  "icons":[
+    {
+      "src":"/avatar.jpg",
+      "type":"image/png",
+      "sizes":"144x144"
+    }
+  ],
+  "backgroundColor": "#2196f3",
+  "display":"standalone",
+  "start_url":"index.html"
+}
