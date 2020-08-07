@@ -458,7 +458,7 @@
     "postcss-discard-empty": "^4.0.1",
     "prettier": "^1.16.3",
     "pretty-time": "^1.1.0",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.21.0",
     "process": "^0.11.10",
     "private": "^0.1.8",
     "process-nextick-args": "^2.0.1",
