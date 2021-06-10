@@ -211,7 +211,7 @@
     "get-caller-file": "^1.0.3",
     "get-value": "^2.0.6",
     "getpass": "^0.1.7",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "glob-to-regexp": "^0.3.0",
     "global": "^4.4.0",
     "globals": "^11.12.0",
